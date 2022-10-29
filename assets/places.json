@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Cox's Bazar",
+    "destination": "Cox's Bazar",
+    "thumbnail": "https://images.unsplash.com/photo-1587302525159-2363f54affd4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "dayLivingCost": "3000",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eum deserunt maiores. Ab possimus rerum ad quae architecto aliquam deleniti esse totam debitis porro quibusdam quo maxime, ipsa dolor nisi."
+  },
+  {
+    "id": 2,
+    "name": "Sreemangal",
+    "destination": "Sylhet",
+    "thumbnail": "https://images.unsplash.com/photo-1615570686491-c911f857af4b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+    "dayLivingCost": "2000"
+  },
+  {
+    "id": 3,
+    "name": "Saint Martin",
+    "destination": "Cox's Bazar",
+    "thumbnail": "https://images.unsplash.com/photo-1590185105286-a144b8c23fe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=354&q=80",
+    "dayLivingCost": "3000",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eum deserunt maiores. Ab possimus rerum ad quae architecto aliquam deleniti esse totam debitis porro quibusdam quo maxime, ipsa dolor nisi."
+  },
+  {
+    "id": 4,
+    "name": "Madhabkundu",
+    "destination": "Sylhet",
+    "thumbnail": "https://images.unsplash.com/photo-1633712262787-20bfcbcc95d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "dayLivingCost": "3000",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eum deserunt maiores. Ab possimus rerum ad quae architecto aliquam deleniti esse totam debitis porro quibusdam quo maxime, ipsa dolor nisi."
+  },
+  {
+    "id": 5,
+    "name": "Jaflong",
+    "destination": "Sylhet",
+    "thumbnail": "https://images.unsplash.com/photo-1643001607577-0a0332e79aab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+    "dayLivingCost": "4000"
+  },
+  {
+    "id": 6,
+    "name": "Guliyakhali",
+    "destination": "Sitakundu",
+    "thumbnail": "https://images.unsplash.com/photo-1642920252136-9252360812b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "dayLivingCost": "1000"
+  },
+  {
+    "id": 7,
+    "name": "Sundarban",
+    "destination": "Bagerhat",
+    "thumbnail": "https://images.unsplash.com/photo-1615824996195-f780bba7cfab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "dayLivingCost": "1000"
+  }
+]
