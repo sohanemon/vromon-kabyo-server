@@ -12,7 +12,8 @@
     "name": "Sreemangal",
     "destination": "Sylhet",
     "thumbnail": "https://images.unsplash.com/photo-1615570686491-c911f857af4b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
-    "dayLivingCost": "2000"
+    "dayLivingCost": "2000",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eum deserunt maiores. Ab possimus rerum ad quae architecto aliquam deleniti esse totam debitis porro quibusdam quo maxime, ipsa dolor nisi."
   },
   {
     "id": 3,
@@ -35,20 +36,23 @@
     "name": "Jaflong",
     "destination": "Sylhet",
     "thumbnail": "https://images.unsplash.com/photo-1643001607577-0a0332e79aab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
-    "dayLivingCost": "4000"
+    "dayLivingCost": "4000",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eum deserunt maiores. Ab possimus rerum ad quae architecto aliquam deleniti esse totam debitis porro quibusdam quo maxime, ipsa dolor nisi."
   },
   {
     "id": 6,
     "name": "Guliyakhali",
     "destination": "Sitakundu",
     "thumbnail": "https://images.unsplash.com/photo-1642920252136-9252360812b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-    "dayLivingCost": "1000"
+    "dayLivingCost": "1000",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eum deserunt maiores. Ab possimus rerum ad quae architecto aliquam deleniti esse totam debitis porro quibusdam quo maxime, ipsa dolor nisi."
   },
   {
     "id": 7,
     "name": "Sundarban",
     "destination": "Bagerhat",
     "thumbnail": "https://images.unsplash.com/photo-1615824996195-f780bba7cfab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    "dayLivingCost": "1000"
+    "dayLivingCost": "1000",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eum deserunt maiores. Ab possimus rerum ad quae architecto aliquam deleniti esse totam debitis porro quibusdam quo maxime, ipsa dolor nisi."
   }
 ]
